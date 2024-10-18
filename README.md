@@ -7,7 +7,7 @@
     <br>
     Unidad II: Programación Orientada a Objetos para Videojuegos
     <br>
-    <a href="">Planificación de Videojuego</a>
+    <a href="https://drive.google.com/file/d/17jj7xeQrpnFsnJnE_cHQTD7d29YkNPnV/view?usp=drive_link">Planificación de Videojuego</a>
   </p>
 </p>
 
@@ -119,7 +119,7 @@ revelen información sobre el siguiente paso.
 
 ## Planificación
 
-![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
+![4337008]( )
 
 ## Autores
 Karla Hernandez & Julian Soto
