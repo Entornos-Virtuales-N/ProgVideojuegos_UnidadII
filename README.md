@@ -7,7 +7,7 @@
     <br>
     Unidad II: Programación Orientada a Objetos para Videojuegos
     <br>
-    <a href="https://reponame/issues/new?template=bug.md](https://drive.google.com/file/d/17jj7xeQrpnFsnJnE_cHQTD7d29YkNPnV/view?usp=drive_link">Planificación de Videojuego</a>
+    <a href="">Planificación de Videojuego</a>
   </p>
 </p>
 
