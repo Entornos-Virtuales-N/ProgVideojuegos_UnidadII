@@ -108,7 +108,7 @@ revelen información sobre el siguiente paso.
 * Lección 4
   * > Challenge_2
   * > Laboratorio
-  * > <a href="">Challenge_2</a>
+  * > <a href="https://github.com/Entornos-Virtuales-N/Challenge_2.git">Challenge_2</a>
   * > Prueba
 * Lección 5
   * > Prototipo_3
