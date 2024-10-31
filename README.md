@@ -90,33 +90,36 @@ revelen información sobre el siguiente paso.
 
 ## Código Fuente
 
-* Lección 1
+* Prototipo_1
   * > Prototipo_1
   * > Laboratorio
   * > <a href="https://github.com/Entornos-Virtuales-N/Prototipo1-2Challenge1.git">Prototipo_1</a>
   * > Prueba
-* Lección 2
+* Challenge_1
   * > Challenge_1
   * > Laboratorio
   * > <a href="https://github.com/Entornos-Virtuales-N/Prototipo1-2Challenge1.git">Challenge_1</a>
   * > Prueba
-* Lección 3
+* Prototipo_2
   * > Prototipo_2
   * > Laboratorio
   * > <a href="https://github.com/Entornos-Virtuales-N/Prototipo1-2Challenge1.git">Prototipo_2</a>
   * > Prueba
-* Lección 4
+* Challenge_2
   * > Challenge_2
   * > Laboratorio
   * > <a href="https://github.com/Entornos-Virtuales-N/Challenge_2.git">Challenge_2</a>
   * > Prueba
-* Lección 5
+* Prototipo_3
   * > Prototipo_3
   * > <a href="https://drive.google.com/file/d/1NhIbRVqcW8mLAWNNVy98DM_IjQapYu5K/view?usp=drive_link">Reporte</a>
   * > <a href="https://github.com/Entornos-Virtuales-N/Prototipo_3.git">Prototipo_3</a>
   * > Prueba
 * VideoJuego
-
+  * > CatFarFromHome
+  * > Laboratorio
+  * > <a href="https://github.com/Entornos-Virtuales-N/Challenge_2.git](https://xjulianx21.itch.io/cat-far-from-home">Avance</a>
+  * > Prueba
 ## Planificación
 
 ![4337008]( )
