@@ -118,7 +118,7 @@ revelen información sobre el siguiente paso.
 * VideoJuego
   * > CatFarFromHome
   * > Laboratorio
-  * > <a href="https://github.com/Entornos-Virtuales-N/Challenge_2.git](https://xjulianx21.itch.io/cat-far-from-home">Avance</a>
+  * > <a href="https://xjulianx21.itch.io/cat-far-from-home">Avance</a>
   * > Prueba
 ## Planificación
 
