@@ -120,7 +120,7 @@ revelen información sobre el siguiente paso.
   * > <a href="">Reporte</a>
   * > <a href="">Package Challenge_3</a>
   * > Prueba
- * Prototipo_4
+* Prototipo_4
   * > Prototipo_4
   * > <a href="https://drive.google.com/file/d/1ffBg3ocW-e9xn5U19VYwUCvA1cHZadYQ/view?usp=drive_link">Reporte</a>
   * > <a href="https://drive.google.com/file/d/1v5ym6NQzWeKlHgqKkhVdbOIZpoVfIPf_/view?usp=drive_link">Package Prototipo_4</a>
